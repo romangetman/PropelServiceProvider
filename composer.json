@@ -4,7 +4,6 @@
     "description": "Propel integration for Silex.",
     "keywords": ["silex", "propel"],
     "license": "MIT",
-    "version": "2.0",
     "authors": [
     {
         "name": "William Durand",
