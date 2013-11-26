@@ -16,7 +16,7 @@
     ],
     "require": {
         "silex/silex": "~1.0",
-        "propel/propel": "2.0.*@dev"
+        "propel/propel": "master"
     },
     "require-dev": {
         "phpunit/phpunit": "3.7.*"
