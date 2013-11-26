@@ -4,7 +4,7 @@
     "description": "Propel integration for Silex.",
     "keywords": ["silex", "propel"],
     "license": "MIT",
-    "version": "2.0"
+    "version": "2.0",
     "authors": [
     {
         "name": "William Durand",
@@ -17,7 +17,7 @@
     ],
     "require": {
         "silex/silex": "~1.0",
-        "propel/propel": "2.0.*@dev"
+        "propel/propel": "~2.0"
     },
     "require-dev": {
         "phpunit/phpunit": "3.7.*"
